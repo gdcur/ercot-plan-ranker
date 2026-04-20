@@ -1,0 +1,4 @@
+plan_id,plan_name,total_kwh_sample,cdd_baseline,cdd_hot,hot_factor,energy_rate_per_kwh,fixed_monthly_charge,estimated_cost_normal_usd,estimated_cost_hot_usd
+B,Flat Basic 12,2.4,7.57,23.0,1.463,0.155,0.0,0.37,0.54
+A,Simple Saver 12,2.4,7.57,23.0,1.463,0.145,9.95,10.3,10.46
+C,Premium Plus 24,2.4,7.57,23.0,1.463,0.135,19.95,20.27,20.42

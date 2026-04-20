@@ -1,0 +1,4 @@
+plan_id,plan_name,energy_rate_per_kwh,fixed_monthly_charge
+A,Simple Saver 12,0.145,9.95
+B,Flat Basic 12,0.155,0.00
+C,Premium Plus 24,0.135,19.95

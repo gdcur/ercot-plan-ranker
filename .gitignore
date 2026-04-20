@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# env / secrets
+.env
+*.pem
+*.key
+
+# local data outputs (keep sample data tracked)
+data/local/
+outputs/
+
+# local files only
+target.txt
+*.exclude
+github-publish.sh
